@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@400;700&family=Roboto:wght@100;300;400&display=swap');
+
+.App {
+    font-family: $font-main;
+    font-size: 16px;
+    background-color: $dark;
+    color: $white;
+}
+
+a {
+    color: $white;
+    transition: color 0.3s ease;
+
+    &:hover {
+        color: $accent;
+    }
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1140px;
+    padding: 0 15px;
+}
+
+.visually__hidden {
+    // Contain text within 1px box
+    height: 1px;
+    overflow: hidden;
+    width: 1px;
+
+    // Keep the layout
+    position: absolute;
+
+    // Remove any visible trace (e. g. background color)
+    clip: rect(1px 1px 1px 1px); //IE6, IE7
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%); //browsers in the future
+
+    // Prevent the screen reader to skip spaces between words
+    white-space: nowrap; 
+}
+
+.container--small {
+    max-width: 794px;
+}
+
+.title-secondary {
+    font-size: 36px;
+    font-family: $font-title;
+    font-weight: 700;
+    color: $accent;
+
+    @include mediaTablet {
+        font-size: 28px;
+    }
+}
+
+.none {
+    display: none !important;
+}
+
+.no-scroll {
+    overflow-y: hidden;
+}

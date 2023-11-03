@@ -1,0 +1,33 @@
+@import '../../../sass/vars';
+@import '../../../sass/mixins';
+
+.nav {
+    font-size: 14px;
+    letter-spacing: 0.7px;
+}
+
+.nav__list {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.header__nav {
+    .header__nav {
+        display: block;
+    }
+
+    @include mediaTablet {
+        display: none;
+    }
+}
+
+// .nav__list {
+//     flex-direction: column;
+//     align-items: center; 
+// }
+
+// .header__top-content--mobile .nav__list--mobile {
+//     flex-direction: column;
+//     align-items: center;
+// }
