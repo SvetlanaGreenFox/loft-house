@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/loft-house/static/css/main.4c00b297.css",
+    "main.js": "/loft-house/static/js/main.21859859.js",
+    "static/js/787.b6e5c570.chunk.js": "/loft-house/static/js/787.b6e5c570.chunk.js",
+    "static/media/header-bg.jpg": "/loft-house/static/media/header-bg.af72bc91f7906fdbf22e.jpg",
+    "static/media/cta-bg.jpg": "/loft-house/static/media/cta-bg.33f1268311bb8e490fc3.jpg",
+    "static/media/video.jpg": "/loft-house/static/media/video.f2fc3e83be3799cfb592.jpg",
+    "static/media/olimp.jpg": "/loft-house/static/media/olimp.dac700f9e12adad25570.jpg",
+    "static/media/studio.jpg": "/loft-house/static/media/studio.9f39c51887ed2e8980a5.jpg",
+    "static/media/flat.jpg": "/loft-house/static/media/flat.c31d9368d8e0cfd61ed9.jpg",
+    "static/media/nice.jpg": "/loft-house/static/media/nice.ca15f9c08d039164f8c0.jpg",
+    "static/media/fountain.svg": "/loft-house/static/media/fountain.51b8307ea550022db3d5f43aa0a0a7f3.svg",
+    "static/media/logo.svg": "/loft-house/static/media/logo.2bf16b2a445d899cc2e3a3ad3751cd94.svg",
+    "static/media/bench.svg": "/loft-house/static/media/bench.e1ce766ca03622eaf428a02209576bd5.svg",
+    "static/media/building.svg": "/loft-house/static/media/building.3b0844bee2c62e291ec7c9f7211a228f.svg",
+    "static/media/bicycle.svg": "/loft-house/static/media/bicycle.48b90912c7ac8a3f00e0e46b7972b1f0.svg",
+    "static/media/vk.svg": "/loft-house/static/media/vk.fe1899d3cbc60dc04f5337eb78c634b3.svg",
+    "static/media/phone-call.svg": "/loft-house/static/media/phone-call.11fa2dc7a5fcac644d0c5d27ba102fb6.svg",
+    "static/media/instagram.svg": "/loft-house/static/media/instagram.4a6d02536a51f57aecf27ba5b5e6877c.svg",
+    "static/media/placeholder.svg": "/loft-house/static/media/placeholder.4672180cfacae736efffd9e2596aa7d0.svg",
+    "static/media/mouse.svg": "/loft-house/static/media/mouse.0d3bbd8cac7cf126ed75671a35a63274.svg",
+    "static/media/play-button.svg": "/loft-house/static/media/play-button.57ca7591806fd57fc7603f5e57efe870.svg",
+    "static/media/facebook.svg": "/loft-house/static/media/facebook.b3e6bc0ce85bd34bf514b4cee3b93d9a.svg",
+    "index.html": "/loft-house/index.html",
+    "static/media/youtube.svg": "/loft-house/static/media/youtube.1e93f1539842688e425c95cdc4e13244.svg",
+    "main.4c00b297.css.map": "/loft-house/static/css/main.4c00b297.css.map",
+    "main.21859859.js.map": "/loft-house/static/js/main.21859859.js.map",
+    "787.b6e5c570.chunk.js.map": "/loft-house/static/js/787.b6e5c570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c00b297.css",
+    "static/js/main.21859859.js"
+  ]
+}
